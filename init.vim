@@ -11,3 +11,6 @@ lua require('plugins')
 set relativenumber
 set number
 set signcolumn=no
+
+colors my_256
+
